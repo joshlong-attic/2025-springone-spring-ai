@@ -2,6 +2,9 @@
 
 by:
 **Dr. Mark Pollack**, founder of Spring AI 
+
+and
+
 **Josh Long**, his trusty sidekick 
 
 
